@@ -34,9 +34,13 @@ This tool is useful for research, data analysis, moderation review, sentiment st
 ## 📁 Project Structure
 
 CommentScraperUI/
+|
 │── api_key.txt
+|
 │── commscrape.py
+|
 │── requirements.txt
+|
 │── README.md
 
 
@@ -85,3 +89,4 @@ Users are responsible for complying with YouTube’s terms of service.
 👤 Author
 
 Created by AashishCyberH4CKS
+
