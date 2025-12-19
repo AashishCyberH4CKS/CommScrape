@@ -1,4 +1,6 @@
 # CommScrape - YouTube Comment & Reply Extractor
+<img width="897" height="583" alt="Screenshot 2025-12-19 145432" src="https://github.com/user-attachments/assets/72708ba1-84a4-4dcb-bbe4-f5defe1120a2" />
+
 
 A Python-based tool that extracts **comments and replies** from any **public YouTube video** using the official **YouTube Data API v3**, and exports the data into **CSV or TXT** format with a clean and structured layout.
 
@@ -81,4 +83,5 @@ This project is intended for educational and research purposes only.
 Users are responsible for complying with YouTube’s terms of service.
 
 👤 Author
+
 Created by AashishCyberH4CKS
